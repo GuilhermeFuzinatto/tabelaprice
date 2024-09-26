@@ -1,3 +1,30 @@
-tr{
-    background-color: lightgrey;
+body{
+    background-color: antiquewhite;
+}
+
+th{
+    background-color: rgb(148, 79, 79);
+    color: rgb(226, 200, 165);
+    width: 100px;
+    border-radius: 5px;
+}
+
+.tab{
+    background-color: rgb(226, 200, 165);
+    position: relative;
+    width: 500px;
+    height: 250px;
+    border-radius: 5px;
+}
+
+td{
+    background-color: antiquewhite;
+    color: rgb(148, 79, 79);
+    border-radius: 5px;
+}
+
+button{
+    background-color: rgb(148, 79, 79);
+    border-radius: 50px;
+    border-style: none;
 }
